@@ -1,0 +1,2 @@
+genlayer-test==0.30.0rc2
+pytest>=8
